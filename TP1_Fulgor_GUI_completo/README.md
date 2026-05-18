@@ -1,26 +1,26 @@
 ## Instalación
 
 >[Powershell]
->```bash
+>```json
 >cd C:\Users\Usuario\Downloads\TP1_Fulgor_GUI_completo
 >python -m pip install -r requirements.txt
 >```
 
 ## Ejecutar la interfaz
 
->```bash
+>```json
 >python app_gui.py
 >```
 
 ## Ejecutar la versión consola
 
->```bash
+>```json
 >python main.py
 >```
 
 ## Comandos
 
->```bash
+>```json
 >help
 >status
 >set alpha 0.5
